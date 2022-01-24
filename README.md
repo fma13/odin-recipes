@@ -1,1 +1,1 @@
-yes# odin-recipes
+this is a recipe page# odin-recipes
